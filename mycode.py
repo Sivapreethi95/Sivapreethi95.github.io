@@ -5,6 +5,7 @@
 
 
 #closing the file.
+
 def readContents(fileName):
     f = open(fileName, 'r')
     print('The file contents of', fileName, 'are:')

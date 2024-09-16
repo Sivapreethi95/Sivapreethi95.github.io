@@ -5,7 +5,7 @@ def sum_numbers():
     while i <= 100:
         total += i
         i += 1
-        
+    print(i)
     return total
 
 # Call the function and print the result
