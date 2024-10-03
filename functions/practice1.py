@@ -4,4 +4,4 @@ def greet(name):
 
 names = ["Alice", "Bob", "Charlie"]
 for name in names:
-    print(greet(name))
+    greet(name)

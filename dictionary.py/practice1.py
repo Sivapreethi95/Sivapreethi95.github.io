@@ -5,4 +5,4 @@ for num in numbers:
         count_dict[num] = count_dict[num]+1
     else:
         count_dict[num] = 1
-print(count_dict[num])
+print(count_dict)

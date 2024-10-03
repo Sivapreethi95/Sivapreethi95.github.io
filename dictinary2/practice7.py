@@ -15,17 +15,7 @@ for employee in employees:
     else:
         department_expenses[employees[employee]["department"]] = department_expenses[employees[employee]["department"]]+employees[employee]["expenses"]
 print(department_expenses)   
-# for key in employees[employee]:
-      #  print(key)
-        #print(employees[employee])
-        #for expense in employees[employee][department]:
-        #if department in dept_list:
-            #sum = sum + employees[employee][department]
-        #for i in employees[employee][department]:
-            #if employees[employee][department] not in dept_list:
-              #  sum = sum + employees[employee][department][i]
-               # print(sum)
-            #print(employees[employee][department])
+
 
 
 

@@ -7,5 +7,5 @@ for number in numbers:
         sum = sum + number
         if sum > 100:
             break
-        print(sum)
-#print(sum)
+        #print(sum)
+print(sum)
